@@ -1,0 +1,13 @@
+{
+  "name": "mevn-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple MEAN stack boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "build": "docker-compose build",
+    "start": "docker-compose up"
+  },
+  "keywords": ["docker", "mean", "boilerplate"],
+  "author": "Drew Althage",
+  "license": "ISC"
+}
